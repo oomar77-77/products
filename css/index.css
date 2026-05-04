@@ -258,12 +258,13 @@ h6{
     width: 100%;
     margin-top: 30px;
     border-radius:25px ;
-     margin-bottom:10px;
+    
 }
 .advertisement a{
     text-decoration: none;
     transition:1s ease-in-out ;
     transform: scale(0.9);
+     margin-bottom:10px;
 }
 .advertisement a:hover{
     transform: scale(1);
