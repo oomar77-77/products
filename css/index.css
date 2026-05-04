@@ -230,8 +230,8 @@ button:hover{
     flex-direction: column;
     justify-content: center;
     opacity: 0;
-    transform: translateY(100%);
-    transition: all 4s ease-in-out;
+    transform: translateY(-100%);
+    transition: all 6s ease-in-out;
     pointer-events: none;
     z-index: 30;
     font-weight: 400;
